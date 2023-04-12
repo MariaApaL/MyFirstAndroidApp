@@ -10,10 +10,10 @@
 
 <!--    SUPER HERO APP-->
 
-    <color name="marvel_color">#E23636</color>
-  <color name="welcome_app">#A3D5EC</color>
-<!--    <color name="purple_700">#FF3700B3</color>-->
-<!--    <color name="teal_200">#FF03DAC5</color>-->
+    <color name="red_color">#E23636</color>
+  <color name="brown_color">#433C38</color>
+  <color name="button_color">#D8805D</color>
+ <color name="background">#fefdf8</color>
 <!--    <color name="teal_700">#FF018786</color>-->
 <!--    <color name="black">#FF000000</color>-->
 <!--    <color name="white">#FFFFFFFF</color>-->

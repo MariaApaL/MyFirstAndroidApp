@@ -9,5 +9,5 @@ import dagger.hilt.android.HiltAndroidApp
 //como contenedor de dependencia a nivel de la aplicación.
 
 @HiltAndroidApp
-class SuperheroApp:Application() {
+class CatApp:Application() {
 }

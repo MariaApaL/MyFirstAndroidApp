@@ -3,9 +3,12 @@ package com.apa.accenture.myfirstapp.ui.view
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.apa.accenture.myfirstapp.R
 import com.apa.accenture.myfirstapp.databinding.ActivityMainBinding
+import com.apa.accenture.myfirstapp.ui.view.menu.MenuActivity
+import dagger.hilt.android.AndroidEntryPoint
 
+
+@AndroidEntryPoint
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding;
